@@ -52,3 +52,6 @@ Thumbs.db
 
 # Python Virtual Environment
 ai_env/
+
+# Gradio files
+.gradio/
