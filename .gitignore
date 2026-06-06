@@ -21,6 +21,7 @@ venv/
 env/
 ENV/
 ai_env/
+ai_env_3_12/
 
 # Unit test / coverage reports
 .pytest_cache/
@@ -52,6 +53,10 @@ Thumbs.db
 
 # Python Virtual Environment
 ai_env/
+ai_env_3_12/
 
 # Gradio files
 .gradio/
+
+# ChromaDB files
+chroma_db/
