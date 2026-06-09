@@ -60,3 +60,4 @@ ai_env_3_12/
 
 # ChromaDB files
 chroma_db/
+chroma_db_twin/
