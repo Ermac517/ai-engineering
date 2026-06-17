@@ -522,8 +522,7 @@ gr.ChatInterface(
     description="Chat with the Digital Twin AI of Mario Cruz. Ask about his expirence, projects or just say hi.",
     examples=[
         "What are your favorite videogames", "Tell me about your professional background", 
-        "Can you share some tips for aspiring AI engineers",
-        "Ask me to roll a dice and send a notification to my phone"
+        "Roll two dice and tell me the result by sending a notification to my phone"
     ],
     chatbot=gr.Chatbot(avatar_images=[None, "mcruz.jpeg"])
 ).launch()
