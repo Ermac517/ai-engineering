@@ -62,3 +62,6 @@ ai_env_3_12/
 chroma_db/
 chroma_db_twin/
 chroma_db3/
+
+# Generated Images
+*.png
