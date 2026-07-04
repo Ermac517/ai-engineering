@@ -65,3 +65,7 @@ chroma_db3/
 
 # Generated Images
 *.png
+
+# Generated Files
+secret_project_006/
+secret_project_007/
